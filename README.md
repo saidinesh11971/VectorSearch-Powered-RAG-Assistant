@@ -119,12 +119,8 @@ Issues, suggestions, and pull requests are welcome. Please open an issue first t
 
 ---
 
-## License & Contact 📬
-- License: See `LICENSE` (if present) or contact the repository owner for licensing details.
-- Questions or feedback: open an issue or reach out to the project maintainer.
-
----
 
 **Enjoy building with RAG + Vector Search!** ✅
+
 
 
